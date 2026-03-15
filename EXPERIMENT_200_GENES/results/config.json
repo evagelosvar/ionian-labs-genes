@@ -1,0 +1,31 @@
+{
+  "email": "your_email@example.com",
+  "search_date": "2026/03/15",
+  "presence_threshold": 1,
+  "domains": {
+    "EEG": [
+      "\"Electroencephalography\"[MeSH Terms]",
+      "\"Electroencephalography\"[Majr]",
+      "\"EEG\"[Title/Abstract]"
+    ],
+    "Cardiology": [
+      "\"Cardiology\"[MeSH Terms]",
+      "\"Cardiovascular Diseases\"[MeSH Terms]"
+    ],
+    "Endocrinology": [
+      "\"Endocrinology\"[MeSH Terms]",
+      "\"Diabetes Mellitus\"[MeSH Terms]",
+      "\"Metabolic Diseases\"[MeSH Terms]"
+    ],
+    "Immunology": [
+      "\"Immunology\"[MeSH Terms]",
+      "\"Autoimmune Diseases\"[MeSH Terms]",
+      "\"Inflammation\"[MeSH Terms]"
+    ],
+    "Oncology": [
+      "\"Medical Oncology\"[MeSH Terms]",
+      "\"Neoplasms\"[MeSH Terms]"
+    ]
+  },
+  "n_genes": 201
+}

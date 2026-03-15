@@ -1,0 +1,11 @@
+Comparison,Count
+EEG genes,128
+Cardiology genes,201
+Endocrinology genes,199
+Immunology genes,197
+Oncology genes,201
+EEG ∩ Cardiology,128
+EEG ∩ Endocrinology,128
+EEG ∩ Immunology,127
+EEG ∩ Oncology,128
+EEG ∩ all 4 other domains,127
