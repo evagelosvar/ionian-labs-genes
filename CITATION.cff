@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Varthis"
+  given-names: "Evagelos"
+  orcid: "https://orcid.org/0000-0003-2970-2156"
+- family-names: "Poulos"
+  given-names: "Marios"
+  orcid: "https://orcid.org/0000-0003-2170-1722"
+title: "Gene Epistemic Map Software"
+version: 1.0.0
+doi: 10.5281/zenodo.19030239
+date-released: 2026-1-1
+url: "https://github.com/evagelosvar/ionian-labs-genes"
